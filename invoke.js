@@ -1,0 +1,10 @@
+muhammadGreeter.sayHello();
+peterWise.sayHello();
+yaakovMusic.sayHello();
+john.sayGoodBye();
+paul.sayHello();
+larry.sayHello();
+jen.sayGoodBye();
+jason.sayGoodBye();
+frank.sayHello();
+jim.sayGoodBye();
